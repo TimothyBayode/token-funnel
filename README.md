@@ -22,7 +22,7 @@ If you don't have this, steps on how you can do it will be at the bottom of this
 Then install dependencies:
 
 ```bash
-pip install web3 python-dotenv (enter this command on your terminal)
+pip install web3 python-dotenv
 ```
 
 ---
@@ -58,7 +58,7 @@ Replace these with the token contracts you want to send.
 Once your `.env` is set up and dependencies are installed, run:
 
 ```bash
-python index.py (enter this command on your terminal)
+python index.py
 ```
 
 The script will:
